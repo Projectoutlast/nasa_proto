@@ -1,4 +1,4 @@
-module github.com/Projectoutlast/nasa/protos
+module github.com/Projectoutlast/nasa_proto
 
 go 1.22.3
 
